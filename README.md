@@ -20,7 +20,7 @@ This project is a simple game developed using Unity and C#. In this game, you la
 - Includes a `Prefabs` folder under the `Assets` directory, where the `Ball` prefab is added. After the ball is launched, a new ball is automatically instantiated using the `Instantiate` method.
 
 
-## Screenshots
+## Screenshot
 
 ![BallLauncherIMG](https://github.com/user-attachments/assets/23e2407d-852e-4899-9e39-6d408f85be5f)
 
